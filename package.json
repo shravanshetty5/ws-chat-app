@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chat app using web socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shravanshetty5/ws-chat-app.git"
+  },
+  "author": "shravan.shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shravanshetty5/ws-chat-app/issues"
+  },
+  "homepage": "https://github.com/shravanshetty5/ws-chat-app#readme"
+}
